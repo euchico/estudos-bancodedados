@@ -1,0 +1,36 @@
+MySQL - 1994 Suécia
+- Michael Widenius
+- David Axmark
+# GPL. Software Livre
+*Nem tudo surge no Estados unidos
+
+2007 Sun compra o MySQL
+2009 Oracle compra a Sun
+
+Michael sair e cria o MariaDB
+
+Empresas que utilizam MySQL
+- NASA
+- Google
+- Wikipedia
+- Adobe
+- Cisco
+- Ebay
+- Empresas de Telefonia (Oi, tim, claro, vivo)
+- Bradesco
+- Forças armadas
+
+MySQL Possui
+- DDL: Definição
+- DML: Manipulação
+- DQL: Solicitações
+- DCL: Controle
+- DTL: Transações
+
+MySQL Possui DICA
+- Durabilidade
+- Isolamento
+- Consistência
+- Atomicidade
+
+*Instalar o XAMPP

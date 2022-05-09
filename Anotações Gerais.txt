@@ -1,0 +1,8 @@
+BANCO DE DADO - ANOTAÇÕES
+
+Dado: São elementos que constituem a matéria-prima da informação.
+Informação: As informações são os dados devidamente tratados e analisados, produzindo conhecimento relevante.
+
+SQL: Structured Query Language (Linguagem de Consulta Estruturada)
+NoSQL: Not Only SQL (Não Somente SQL)
+

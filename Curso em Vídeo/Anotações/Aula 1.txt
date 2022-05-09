@@ -1,0 +1,69 @@
+Origem dos Bancos de Dados
+
+Década de 50
+- Computadores Universitários e Militares
+- Dados em Papel (Ficha)
+
+Fichas > Pastas > Armários
+Registros > Tabelas > Arquivos
+
+* Muito acumulo de papel
+
+Posteriormente...
+Arquivos de Acesso Sequênciais
+
+Fitas magnéticas, cartão perfurado
+- Lento, mas melhor que os anteriores
+
+Posteriormente...
+Arquivos de Acesso Direto
+
+Discos e HD com indices
+
+
+Década de 60
+Departemento Americano de defesa passou a investir no assunto
+
+Evento importante: CODASYL
+- Surgimento do COBOL
+- Surgimento do Banco de Dados
+
+
+Partes de um Banco de dados
+- Base de Dados
+- DBMS > SGBD (Sistema Gerenciados de Banco de Dados)
+- Linguagem de Exploração
+- Programa Adicionais
+
+Principal Empresa no Desenvolvimento: IBM
+
+Modelos
+- Modelo Hierarquico
+- Modelo em Rede
+
+
+Decada de 70
+
+Edgar F. Codd 
+- Modelo Relacional
+
+Lingagens de Exploração
+- Structured English Query Language (SEQUEL)
+- SQL
+
+Multiplos SQL desenvolvidos por várias empresas criou um problema.
+Então orgão como ANSI e ISO padronizarão.
+
+
+Bancos de Dados (Empresariais)
+- Oracle
+- IBM
+- dBase
+- SQL Server
+
+Bancos de Dados (Gratuitos)
+- MySQL
+- MariaDB
+- FireBird
+- PostgreeSQL
+
