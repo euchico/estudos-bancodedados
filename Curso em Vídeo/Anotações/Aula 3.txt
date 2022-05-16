@@ -1,0 +1,41 @@
+CREATE DATABASE <nome banco>;
+* cria um banco de dados.
+
+Banco de dados > tabelas > registros > campos
+
+CREATE TABLE <nome tabela>(
+<nome campo> <tipo campo>(<tamanho campo>),
+<nome campo> <tipo campo>(<tamanho campo>),
+);
+* cria uma tabela
+
+USE <nome banco>;
+* Abrir banco
+
+DESCRIBE <nome tabela>;
+* Descreve tabela
+
+SHOW DATABASE;
+* Exibe BANCOS
+
+STATUS;
+* Exibe tabela utilizada
+
+SHOW TABLE;
+* Exibe TABELAS
+
+Tipos primitivos:
+- Numéricos
+-- Inteiros -> (TinyInt, SmallInt, Int, MediumInt, BigInt)
+-- Real -> (Decimal, Float, Double, Real)
+-- Lógico -> (Bit, Boolean)
+
+- Data/Tempo -> (Date, DateTime, TimeStamp, Time, Year)
+
+- Literal
+-- Caracteres -> (Char, VarChar)
+-- Texto -> (TinyText, Text, MediumText, LongText)
+-- Binário -> (TinyBlob, Blob, MediumBlob, LongBlob)
+-- Coleção -> (Enum, Set)
+
+- Espacial -> (Geometry, Point, Polygon, MultiPolygon)
